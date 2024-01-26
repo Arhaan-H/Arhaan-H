@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arhaan-H
-- 👀 I’m interested in learning Data Analaytics and new technoligies
+- 👀 I’m interested in learning Data Analaytics and new technologies
 - 🌱 I’m currently trying to finding the path
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me arhaangupta475@gmail.com
